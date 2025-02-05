@@ -93,7 +93,7 @@ Without this, websites can appear **too zoomed-in or too small** on mobile devic
 
 ## Author
 **Arpita Sinha**  
-📧 [YourEmail@example.com](mailto:arpita.sinha@pw.live)  
+📧 [arpita.sinha@pw.live](mailto:arpita.sinha@pw.live)  
 🔗 [GitHub Profile](https://github.com/ArpitaSinha02)
 
 ---
